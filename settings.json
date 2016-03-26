@@ -1,0 +1,9 @@
+{
+  "public": {
+    "ga": {
+      "account": "UA-9080932948-3"
+    }
+  },
+  "hello" : "it's private settings"
+
+}
